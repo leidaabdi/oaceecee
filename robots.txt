@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://avahgaeko.wangongzhai.cn/sitemap.xml
